@@ -1,6 +1,8 @@
 # 信息交换底层协议
 
 [![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
+[![Build Status](https://travis-ci.org/shaozhuguang/msg-transfer.svg?branch=master)](https://travis-ci.org/shaozhuguang/msg-transfer)
+
 
 ### 角色
  + 本地节点
