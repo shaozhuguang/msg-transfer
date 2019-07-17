@@ -13,7 +13,7 @@ import org.junit.Test;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
-public class NodeTest {
+public class NodeTest_ {
 
     private String ADDRESS = "127.0.0.1";
 
