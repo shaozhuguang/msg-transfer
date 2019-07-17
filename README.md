@@ -1,5 +1,7 @@
 # 信息交换底层协议
 
+[![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
+
 ### 角色
  + 本地节点
  + 远端节点
